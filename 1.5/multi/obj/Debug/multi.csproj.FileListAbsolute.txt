@@ -1,0 +1,10 @@
+C:\Users\周晨帝\source\repos\multi\multi\bin\Debug\multi.exe.config
+C:\Users\周晨帝\source\repos\multi\multi\bin\Debug\multi.exe
+C:\Users\周晨帝\source\repos\multi\multi\bin\Debug\multi.pdb
+C:\Users\周晨帝\source\repos\multi\multi\obj\Debug\multi.csprojAssemblyReference.cache
+C:\Users\周晨帝\source\repos\multi\multi\obj\Debug\multi.Form1.resources
+C:\Users\周晨帝\source\repos\multi\multi\obj\Debug\multi.Properties.Resources.resources
+C:\Users\周晨帝\source\repos\multi\multi\obj\Debug\multi.csproj.GenerateResource.cache
+C:\Users\周晨帝\source\repos\multi\multi\obj\Debug\multi.csproj.CoreCompileInputs.cache
+C:\Users\周晨帝\source\repos\multi\multi\obj\Debug\multi.exe
+C:\Users\周晨帝\source\repos\multi\multi\obj\Debug\multi.pdb
